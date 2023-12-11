@@ -67,5 +67,5 @@ const firstValue3 = 10;
   string? SomeValue = null; 
 //dont need explicet declaration of value NULL;
 
-
+if else //work as same as in c++
 } 
